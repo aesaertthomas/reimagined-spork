@@ -1,0 +1,73 @@
+{
+    "highways": [
+        {
+            "routeID": "E40",
+            "total_length_km": 96.0,
+            "number_of_lanes": 3,
+            "daily_traffic_intensity": 120000,
+            "construction_year": 1956,
+            "traffic_jams": [
+                {
+                    "location": "Ternat",
+                    "length_km": 5.2,
+                    "time": "2024-11-28T08:30:00",
+                    "cause": "Accident",
+                    "weather_conditions": "Fog"
+                },
+                {
+                    "location": "Zwijnaarde",
+                    "length_km": 3.1,
+                    "time": "2024-11-28T17:45:00",
+                    "cause": "Heavy traffic",
+                    "weather_conditions": "Rain"
+                }
+            ]
+        },
+        {
+            "routeID": "E17",
+            "total_length_km": 82.0,
+            "number_of_lanes": 3,
+            "daily_traffic_intensity": 105000,
+            "construction_year": 1968,
+            "traffic_jams": [
+                {
+                    "location": "Lokeren",
+                    "length_km": 7.4,
+                    "time": "2024-11-28T09:15:00",
+                    "cause": "Roadworks",
+                    "weather_conditions": "Dry"
+                },
+                {
+                    "location": "Deerlijk",
+                    "length_km": 4.3,
+                    "time": "2024-11-28T18:20:00",
+                    "cause": "Accident",
+                    "weather_conditions": "Snow"
+                }
+            ]
+        },
+        {
+            "routeID": "E411",
+            "total_length_km": 200.0,
+            "number_of_lanes": 2,
+            "daily_traffic_intensity": 70000,
+            "construction_year": 1965,
+            "traffic_jams": [
+                {
+                    "location": "Waver",
+                    "length_km": 6.5,
+                    "time": "2024-11-28T07:50:00",
+                    "cause": "Heavy traffic",
+                    "weather_conditions": "Rain"
+                },
+                {
+                    "location": "Arlon",
+                    "length_km": 2.8,
+                    "time": "2024-11-28T16:10:00",
+                    "cause": "Roadworks",
+                    "weather_conditions": "Dry"
+                }
+            ]
+        }
+    ]
+}

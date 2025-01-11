@@ -1,0 +1,24 @@
+Casteels;Koen;32
+Sels;Matz;32
+Kaminski;Thomas;31
+Vertonghen;Jan;37
+Faes;Wout;26
+Debast;Zeno;21
+Witsel;Axel;35
+Theate;Arthur;24
+Castagne;Timothy;28
+Meunier;Thomas;33
+De Cuyper;Maxim;24
+Onana;Amadou;23
+De Bruyne;Kevin;33
+Mangala;Orel;26
+Tielemans;Youri;27
+Vranckx;Aster;21
+Carrasco;Yannick;31
+Vermeeren;Arthur;19
+Lukebakio;Dodi;27
+Bakayoko;Johan;20
+Lukaku;Romelu;31
+Openda;Loïs;24
+Doku;Jérémy;22
+De Ketelaere;Charles;23

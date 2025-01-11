@@ -1,0 +1,11 @@
+Theate;Arthur;24
+Openda;Loïs;24
+Casteels;Koen;32
+De Cuyper;Maxim;24
+De Bruyne;Kevin;33
+Vertonghen;Jan;37
+Carrasco;Yannick;31
+Meunier;Thomas;33
+Theate;Arthur;24
+Faes;Wout;26
+Castagne;Timothy;28
