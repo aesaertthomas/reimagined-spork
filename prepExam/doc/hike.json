@@ -1,0 +1,580 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 1,
+      "name": "Kastelenroute",
+      "description": "De Kastelenroute voert je langs enkele prachtige kastelen en historische landgoederen. Geniet van de groene omgeving en ontdek de rijke geschiedenis van de regio.",
+      "city": "Gavere",
+      "zip": 9890,
+      "geo_location": {
+        "coordinates": [
+          50.92986,
+          3.655442
+        ]
+      },
+      "distance": 10,
+      "duration": 120,
+      "terrain": "Verhard",
+      "reviews": [
+        {
+          "user": "Alice",
+          "comment": "Heel leuke en interessante wandeling. Ook goed doenbaar met kinderen. De afwisseling van geschiedenis en cultuur met natuur is zeer fijn.",
+          "rating": 4,
+          "date": "2023-01-01"
+        },
+        {
+          "user": "Bob",
+          "comment": "Jammer dat niet alles haalbaar was met een rolstoel terwijl hier staat dat het wel een verharde wandeling is.",
+          "rating": 2,
+          "date": "2022-10-01"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=1&walk",
+        "https://source.unsplash.com/random/800x600/?sig=2&walk",
+        "https://source.unsplash.com/random/800x600/?sig=3&walk",
+        "https://source.unsplash.com/random/800x600/?sig=4&walk",
+        "https://source.unsplash.com/random/800x600/?sig=5&walk",
+        "https://source.unsplash.com/random/800x600/?sig=6&walk"
+      ],
+      "theme": {
+        "id": 5,
+        "name": "Platteland"
+      },
+      "difficulty": {
+        "id": 1,
+        "name": "Gemakkelijk"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Historische Stadswandeling",
+      "description": "De Historische Stadswandeling neemt je mee door de prachtige straten en steegjes van Gent. Ontdek de rijke geschiedenis en bewonder de historische gebouwen en monumenten.",
+      "city": "Gent",
+      "zip": 9000,
+      "geo_location": {
+        "coordinates": [
+          51.049508,
+          3.729964
+        ]
+      },
+      "distance": 5,
+      "duration": 90,
+      "terrain": "Verhard",
+      "reviews": [],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=7&walk",
+        "https://source.unsplash.com/random/800x600/?sig=8&walk",
+        "https://source.unsplash.com/random/800x600/?sig=9&walk",
+        "https://source.unsplash.com/random/800x600/?sig=10&walk",
+        "https://source.unsplash.com/random/800x600/?sig=11&walk",
+        "https://source.unsplash.com/random/800x600/?sig=12&walk"
+      ],
+      "theme": {
+        "id": 1,
+        "name": "Stad"
+      },
+      "difficulty": {
+        "id": 2,
+        "name": "Gemiddeld"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Natuurpark Brielmeersen",
+      "description": "De Natuurpark route voert je door het prachtige natuurpark Brielmeersen en groene landschappen rondom Deinze. Geniet van de rust en ontdek de diversiteit van de flora en fauna.",
+      "city": "Deinze",
+      "zip": 9800,
+      "geo_location": {
+        "coordinates": [
+          50.980176,
+          3.52238
+        ]
+      },
+      "distance": 20,
+      "duration": 180,
+      "terrain": "Vlak",
+      "reviews": [
+        {
+          "user": "Kristof",
+          "comment": "Een ontspannende ervaring! De wandelpaden in Natuurpark Brielmeersen zijn goed onderhouden en bieden een uitstekende gelegenheid om te ontsnappen aan de drukte van het dagelijks leven. Het park heeft een gevarieerde omgeving met weelderige groene gebieden, pittoreske vijvers en een overvloed aan flora en fauna. Een perfecte plek voor natuurliefhebbers en fotografen!",
+          "rating": 5,
+          "date": "2022-08-10"
+        },
+        {
+          "user": "Tine",
+          "comment": "Familievriendelijke wandelingen! Natuurpark Brielmeersen is ideaal voor gezinnen die op zoek zijn naar een leuke en educatieve dag in de natuur. Er zijn speciale kindvriendelijke routes met informatieborden die de lokale dieren en planten beschrijven. De kinderen kunnen genieten van de speeltuinen en interactieve zones, terwijl de ouders kunnen genieten van de rustige omgeving.",
+          "rating": 5,
+          "date": "2023-03-05"
+        },
+        {
+          "user": "Sara",
+          "comment": "Een paradijs voor vogelliefhebbers! Als je een vogelliefhebber bent, is een wandeling in Natuurpark Brielmeersen een absolute aanrader. Het park herbergt een grote verscheidenheid aan vogelsoorten, waaronder watervogels, zangvogels en roofvogels. Er zijn uitkijkpunten en observatiehutten verspreid over het park, zodat je de vogels van dichtbij kunt bekijken. Vergeet je verrekijker niet!",
+          "rating": 5
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=13&walk",
+        "https://source.unsplash.com/random/800x600/?sig=14&walk",
+        "https://source.unsplash.com/random/800x600/?sig=15&walk",
+        "https://source.unsplash.com/random/800x600/?sig=16&walk",
+        "https://source.unsplash.com/random/800x600/?sig=17&walk",
+        "https://source.unsplash.com/random/800x600/?sig=18&walk"
+      ],
+      "theme": {
+        "id": 4,
+        "name": "Park"
+      },
+      "difficulty": {
+        "id": 2,
+        "name": "Gemiddeld"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Stadswandeling",
+      "description": "De Stadswandeling leidt je door de pittoreske straatjes van Maldegem. Ontdek de historische gebouwen, bruggen en de levendige sfeer van de stad.",
+      "city": "Maldegem",
+      "zip": 9990,
+      "geo_location": {
+        "coordinates": [
+          51.208938,
+          3.447632
+        ]
+      },
+      "distance": 5,
+      "duration": 90,
+      "terrain": "Verhard",
+      "reviews": [
+        {
+          "user": "Martijn",
+          "comment": "De stadswandeling in Maldegem is een boeiende ontdekkingstocht door charmante straatjes en historische pleinen. Je zult versteld staan van de prachtige architectuur en de rijke geschiedenis die deze stad te bieden heeft. Een absolute aanrader voor liefhebbers van cultuur en geschiedenis!",
+          "rating": 5,
+          "date": "2023-07-04"          
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=19&walk",
+        "https://source.unsplash.com/random/800x600/?sig=20&walk",
+        "https://source.unsplash.com/random/800x600/?sig=21&walk",
+        "https://source.unsplash.com/random/800x600/?sig=22&walk",
+        "https://source.unsplash.com/random/800x600/?sig=23&walk",
+        "https://source.unsplash.com/random/800x600/?sig=24&walk"
+      ],
+      "theme": {
+        "id": 1,
+        "name": "Stad"
+      },
+      "difficulty": {
+        "id": 1,
+        "name": "Gemakkelijk"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Oude Kalevallei",
+      "description": "De Oude Kalevallei wandelroute neemt jou mee door de platte landsvelden van Merendree en Lovendegem. Bij nat weer moet je zeker aangepast schoeisel voorzien. Door de velden kronkelt de beek de Oude Kale. Ooit was dit een rivier die in verbinding stond met de Poekebeek en de Durme, die zo uitmonde in de Schelde.",
+      "city": "Vinderhoute",
+      "zip": 9921,
+      "geo_location": {
+        "coordinates": [
+          51.0869,
+          3.64128
+        ]
+      },
+      "distance": 8,
+      "duration": 100,
+      "terrain": "Drassig",
+      "reviews": [
+        {
+          "user": "Tom",
+          "comment": "Een betoverende wandeling langs de Oude Kalevallei in Vinderhoute. Prachtige landschappen, kabbelende beekjes en een serene rust maken deze route perfect voor natuurliefhebbers.",
+          "rating": 4,
+          "date": "2023-02-25"
+        },
+        {
+          "user": "Frederik",
+          "comment": "Een schilderachtige wandeling. Adembenemende uitzichten, weelderige groene omgeving en een gevoel van totale ontspanning. Een geweldige ontsnapping aan de drukte van het dagelijks leven.",
+          "rating": 4,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "Claudia",
+          "comment": "Een heerlijke wandeling , de paden zijn goed onderhouden en de route is goed aangegeven. Geniet van de natuurlijke schoonheid en luister naar het rustgevende geluid van stromend water.",
+          "rating": 3,
+          "date": "2023-07-06"
+        },
+        {
+          "user": "Stijn",
+          "comment": "Een teleurstellende wandeling langs de Oude Kalevallei. De paden waren modderig en slecht onderhouden, waardoor het moeilijk was om te wandelen. Bovendien waren er weinig interessante bezienswaardigheden langs de route. Niet de moeite waard.",
+          "rating": 1,
+          "date": "2024-01-05"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=25&walk",
+        "https://source.unsplash.com/random/800x600/?sig=26&walk",
+        "https://source.unsplash.com/random/800x600/?sig=27&walk",
+        "https://source.unsplash.com/random/800x600/?sig=28&walk",
+        "https://source.unsplash.com/random/800x600/?sig=29&walk",
+        "https://source.unsplash.com/random/800x600/?sig=30&walk"
+      ],
+      "theme": {
+        "id": 2,
+        "name": "Bossen"
+      },
+      "difficulty": {
+        "id": 3,
+        "name": "Moeilijk"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Roger Raveel Wandelroute",
+      "description": "Een korte wandeling van 3,7 kilometer door het dorp Machelen-aan-de-Leie. Tijdens deze wandelroute staat de kunstenaar Roger Raveel centraal.  Je start aan het Museum Roger Raveel, met een nabijgelegen parking. Tijdens deze wandeling ontdek je mooie plekjes die dienst stonden voor de werken van de schilder Roger Raveel.",
+      "city": "Machelen-aan-de-Leie",
+      "zip": 9870,
+      "geo_location": {
+        "coordinates": [
+          50.960111,
+          3.485643
+        ]
+      },
+      "distance": 3.7,
+      "duration": 45,
+      "terrain": "Onverhard",
+      "reviews": [
+        {
+          "user": "Marie",
+          "comment": "De wandelroute is een ware artistieke ontdekking. Prachtige kunstwerken in combinatie met schilderachtige landschappen zorgen voor een unieke en inspirerende wandelervaring.",
+          "rating": 4,
+          "date": "2023-02-18"          
+        },
+        {
+          "user": "Dieter",
+          "comment": "Een culturele parel! De Roger Raveel Wandelroute in Machelen-aan-de-leie biedt een boeiende mix van kunst en natuur. Een absolute must-visit voor kunstliefhebbers die willen genieten van een verfrissende wandeling.",
+          "rating": 5,
+          "date": "2023-02-06"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=31&walk",
+        "https://source.unsplash.com/random/800x600/?sig=32&walk",
+        "https://source.unsplash.com/random/800x600/?sig=33&walk",
+        "https://source.unsplash.com/random/800x600/?sig=34&walk",
+        "https://source.unsplash.com/random/800x600/?sig=35&walk",
+        "https://source.unsplash.com/random/800x600/?sig=36&walk"
+      ],
+      "theme": {
+        "id": 5,
+        "name": "Platteland"
+      },
+      "difficulty": {
+        "id": 1,
+        "name": "Gemakkelijk"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Groene Gordel",
+      "description": "De Groene Gordel wandeling voert je door het prachtige groene landschap rondom Brussel. Geniet van de rustige paden, bossen en parken terwijl je ontsnapt aan de drukte van de stad.",
+      "city": "Brussel",
+      "zip": 1000,
+      "geo_location": {
+        "coordinates": [
+          50.841078,
+          4.266855
+        ]
+      },
+      "distance": 15,
+      "duration": 180,
+      "terrain": "Verhard",
+      "reviews": [
+        {
+          "user": "Sophie",
+          "comment": "Een mooie wandeling rond Brussel met veel groen en natuur. Perfect om even te ontsnappen aan de stadse drukte en te genieten van de frisse lucht.",
+          "rating": 3,
+          "date": "2023-04-05"          
+        },
+        {
+          "user": "Thomas",
+          "comment": "De Groene Gordel wandeling is een geweldige manier om te genieten van de natuur rondom Brussel. De paden zijn goed onderhouden en er zijn veel mooie plekken om te ontdekken. Een aanrader voor wandelliefhebbers!",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=37&walk",
+        "https://source.unsplash.com/random/800x600/?sig=38&walk",
+        "https://source.unsplash.com/random/800x600/?sig=39&walk",
+        "https://source.unsplash.com/random/800x600/?sig=40&walk",
+        "https://source.unsplash.com/random/800x600/?sig=41&walk",
+        "https://source.unsplash.com/random/800x600/?sig=42&walk"
+      ],
+      "theme": {
+        "id": 2,
+        "name": "Bossen"
+      },
+      "difficulty": {
+        "id": 2,
+        "name": "Gemiddeld"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Duinenwandeling",
+      "description": "De Duinenwandeling neemt je mee door de prachtige duinlandschappen van De Panne. Geniet van de uitgestrekte zandduinen, de frisse zeelucht en het uitzicht op de Noordzee.",
+      "city": "De Panne",
+      "zip": 8660,
+      "geo_location": {
+        "coordinates": [
+          51.091884,
+          2.595952
+        ]
+      },
+      "distance": 10,
+      "duration": 120,
+      "terrain": "Onverhard",
+      "reviews": [
+        {
+          "user": "Lotte",
+          "comment": "Een fantastische wandeling door de duinen van De Panne. Het uitzicht op de zee en de zandduinen is adembenemend. Een aanrader voor natuurliefhebbers!",
+          "rating": 5,
+          "date": "2023-02-01"
+        },
+        {
+          "user": "Jan",
+          "comment": "Prachtige natuur, verfrissende wandeling en de ideale locatie voor een dagje aan zee. De duinenwandeling in De Panne is een echte aanrader!",
+          "rating": 4,
+          "date": "2022-05-11"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=43&walk",
+        "https://source.unsplash.com/random/800x600/?sig=44&walk",
+        "https://source.unsplash.com/random/800x600/?sig=45&walk",
+        "https://source.unsplash.com/random/800x600/?sig=46&walk",
+        "https://source.unsplash.com/random/800x600/?sig=47&walk",
+        "https://source.unsplash.com/random/800x600/?sig=48&walk"
+      ],
+      "theme": {
+        "id": 3,
+        "name": "Kust"
+      },
+      "difficulty": {
+        "id": 2,
+        "name": "Gemiddeld"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Zoniënwoud",
+      "description": "De wandeling door het Zoniënwoud biedt een ontsnapping aan de drukte van de stad en neemt je mee in de serene schoonheid van dit prachtige bosgebied. Geniet van de rustige paden, dichte bossen en de rijke biodiversiteit.",
+      "city": "Tervuren",
+      "zip": 3080,
+      "geo_location": {
+        "coordinates": [
+          50.806431,
+          4.502043
+        ]
+      },
+      "distance": 12,
+      "duration": 150,
+      "terrain": "Onverhard",
+      "reviews": [],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=49&walk",
+        "https://source.unsplash.com/random/800x600/?sig=50&walk",
+        "https://source.unsplash.com/random/800x600/?sig=51&walk",
+        "https://source.unsplash.com/random/800x600/?sig=52&walk",
+        "https://source.unsplash.com/random/800x600/?sig=53&walk",
+        "https://source.unsplash.com/random/800x600/?sig=54&walk"
+      ],
+      "theme": {
+        "id": 2,
+        "name": "Bossen"
+      },
+      "difficulty": {
+        "id": 2,
+        "name": "Gemiddeld"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Kustpad",
+      "description": "Het Kustpad is een schilderachtige wandelroute langs de prachtige kustlijn van Oostende. Geniet van het zicht op de zee, de frisse zeelucht en de levendige sfeer van de stad.",
+      "city": "Oostende",
+      "zip": 8400,
+      "geo_location": {
+        "coordinates": [
+          51.234467,
+          2.914587
+        ]
+      },
+      "distance": 20,
+      "duration": 180,
+      "terrain": "Verhard",
+      "reviews": [
+        {
+          "user": "Emma",
+          "comment": "Een adembenemende wandeling langs de kust van Oostende. De uitzichten zijn gewoonweg spectaculair, vooral bij zonsondergang. Een perfecte plek om te ontspannen en te genieten van de schoonheid van de zee.",
+          "rating": 5,
+          "date": "2023-02-22"
+        },
+        {
+          "user": "Jasper",
+          "comment": "Het Kustpad biedt een fantastische wandelervaring met een prachtig uitzicht op de Noordzee. De route is goed onderhouden en er zijn voldoende plekken om even uit te rusten en te genieten van de omgeving. Een aanrader voor strandliefhebbers!",
+          "rating": 4,
+          "date": "2023-05-11"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=55&walk",
+        "https://source.unsplash.com/random/800x600/?sig=56&walk",
+        "https://source.unsplash.com/random/800x600/?sig=57&walk",
+        "https://source.unsplash.com/random/800x600/?sig=58&walk",
+        "https://source.unsplash.com/random/800x600/?sig=59&walk",
+        "https://source.unsplash.com/random/800x600/?sig=60&walk"
+      ],
+      "theme": {
+        "id": 3,
+        "name": "Kust"
+      },
+      "difficulty": {
+        "id": 2,
+        "name": "Gemiddeld"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Heuvelland",
+      "description": "De wandeling door Heuvelland neemt je mee door het glooiende landschap rondom Ieper. Ontdek de prachtige heuvels, schilderachtige dorpjes en historische bezienswaardigheden.",
+      "city": "Ieper",
+      "zip": 8900,
+      "geo_location": {
+        "coordinates": [
+          50.784718,
+          2.864119
+        ]
+      },
+      "distance": 15,
+      "duration": 120,
+      "terrain": "Onverhard",
+      "reviews": [
+        {
+          "user": "Laura",
+          "comment": "Een mooie en uitdagende wandelroute door het Heuvelland. Het landschap is adembenemend en er zijn veel interessante bezienswaardigheden onderweg. Zorg ervoor dat je voldoende tijd neemt om van het uitzicht te genieten!",
+          "rating": 4,
+          "date": "2023-03-09"
+        },
+        {
+          "user": "Ruben",
+          "comment": "Heuvelland is een geweldige plek om te wandelen. De route biedt een mix van natuurlijke schoonheid en historische sites. De heuvels kunnen soms uitdagend zijn, maar het uitzicht is absoluut de moeite waard.",
+          "rating": 5,
+          "date": "2024-01-09"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=61&walk",
+        "https://source.unsplash.com/random/800x600/?sig=62&walk",
+        "https://source.unsplash.com/random/800x600/?sig=63&walk",
+        "https://source.unsplash.com/random/800x600/?sig=64&walk",
+        "https://source.unsplash.com/random/800x600/?sig=65&walk",
+        "https://source.unsplash.com/random/800x600/?sig=66&walk"
+      ],
+      "theme": {
+        "id": 5,
+        "name": "Platteland"
+      },
+      "difficulty": {
+        "id": 3,
+        "name": "Moeilijk"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Kalmthoutse Heide",
+      "description": "De wandeling door de Kalmthoutse Heide voert je door een prachtig natuurgebied met uitgestrekte heidevelden, bossen en vennen. Geniet van de rust en ontdek de unieke flora en fauna.",
+      "city": "Kalmthout",
+      "zip": 2920,
+      "geo_location": {
+        "coordinates": [
+          51.386298,
+          4.443273
+        ]
+      },
+      "distance": 10,
+      "duration": 120,
+      "terrain": "Onverhard",
+      "reviews": [
+        {
+          "user": "Kelly",
+          "comment": "Een geweldige wandeling voor avontuurlijke natuurliefhebbers. De Kalmthoutse Heide biedt een prachtige omgeving en de route biedt genoeg uitdaging. Zorg ervoor dat je goede wandelschoenen draagt!",
+          "rating": 3,
+          "date": "2023-11-06"
+        },
+        {
+          "user": "Ken",
+          "comment": "De wandeling was een unieke ervaring. Het landschap is adembenemend en de route is goed uitgezet. Het is de perfecte manier om de natuurlijke schoonheid van de Kalmthoutse Heide te verkennen.",
+          "rating": 4,
+          "date": "2023-10-04"
+        }
+      ],
+      "images": [
+        "https://source.unsplash.com/random/800x600/?sig=67&walk",
+        "https://source.unsplash.com/random/800x600/?sig=68&walk",
+        "https://source.unsplash.com/random/800x600/?sig=69&walk",
+        "https://source.unsplash.com/random/800x600/?sig=70&walk",
+        "https://source.unsplash.com/random/800x600/?sig=71&walk",
+        "https://source.unsplash.com/random/800x600/?sig=72&walk"
+      ],
+      "theme": {
+        "id": 2,
+        "name": "Bossen"
+      },
+      "difficulty": {
+        "id": 2,
+        "name": "Gemiddeld"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Howest walk",
+      "description": "Test walk with errors",
+      "city": "",
+      "zip": 2920,
+      "geo_location": {
+        "coordinates": [
+          51.386298,
+          4.443273
+        ]
+      },
+      "distance": 100,
+      "duration": 0,
+      "terrain": "Onverhard",
+      "reviews": [
+      ],
+      "images": [
+      ],
+      "theme": {
+        "id": 2,
+        "name": "Bossen"
+      },
+      "difficulty": {
+        "id": 1,
+        "name": "Gemiddeld"
+      }
+    }    
+  ],
+  "first_page_url": "walks?page=1",
+  "from": 1,
+  "last_page": 2,
+  "last_page_url": "walks?page=2",
+  "next_page_url": "walks?page=2",
+  "path": "walks",
+  "per_page": 12,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 15
+}
